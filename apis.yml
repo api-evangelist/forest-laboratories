@@ -25,6 +25,8 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/forest-laboratories.png
 url: 
+x-api-posture: no-product-api
+x-api-posture-basis: observed
   https://raw.githubusercontent.com/api-evangelist/forest-laboratories/refs/heads/main/apis.yml
 modified: '2026-04-28'
 apis: []
