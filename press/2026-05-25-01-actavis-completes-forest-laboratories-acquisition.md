@@ -1,7 +1,9 @@
 ---
 title: Actavis Completes Forest Laboratories Acquisition
 url: https://www.prnewswire.com/news-releases/actavis-completes-forest-laboratories-acquisition-265361771.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Forest Laboratories" press release artificial intelligence'
 position: 1
 source: serpapi-google
